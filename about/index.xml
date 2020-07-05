@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>About on Reuben Francis</title>
-    <link>http://reubenbf.github.io/Reuben_Portfolio/about/</link>
+    <link>https://reubenbf.github.io/about/</link>
     <description>Recent content in About on Reuben Francis</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="http://reubenbf.github.io/Reuben_Portfolio/about/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://reubenbf.github.io/about/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
