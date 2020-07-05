@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>neural style transfer on Reuben Francis</title>
+    <link>http://reubenbf.github.io/Reuben_Portfolio/tags/neural-style-transfer/</link>
+    <description>Recent content in neural style transfer on Reuben Francis</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 05 Jun 2020 10:58:08 -0400</lastBuildDate>
+    
+	<atom:link href="http://reubenbf.github.io/Reuben_Portfolio/tags/neural-style-transfer/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Reproducibility Project: Simple Scenery Image Classification and Neural Style Transfer</title>
+      <link>http://reubenbf.github.io/Reuben_Portfolio/project/project-2/</link>
+      <pubDate>Fri, 05 Jun 2020 10:58:08 -0400</pubDate>
+      
+      <guid>http://reubenbf.github.io/Reuben_Portfolio/project/project-2/</guid>
+      <description>We look at original works (Image Classification using Conventional models and Neural Style Transfer) and prove it&amp;rsquo;s reprodicibiity by replicating them. we first create a few conventional models to classify a certain dataset, secondly create a neural style transfer model that stylestically change an image from the same dataset and finally compare these images back to the conventional models to notice if the model can still classify them correctly
+Dataset We use the “8 Scene Categories Dataset” taken from Aude Oliva, Antonio Torralba’s study] that contains eight outdoor scene categories: coast, mountain, forest, open country, street, inside city, tall buildings and highways.</description>
+    </item>
+    
+  </channel>
+</rss>
