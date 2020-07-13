@@ -2,66 +2,66 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Reuben Francis</title>
-    <link>http://reubenbf.com/tags/</link>
+    <link>https://reubenbf.github.io/Reuben_Portfolio/tags/</link>
     <description>Recent content in Tags on Reuben Francis</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 05 Jun 2020 10:58:08 -0400</lastBuildDate>
     
-	<atom:link href="http://reubenbf.com/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://reubenbf.github.io/Reuben_Portfolio/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>image</title>
-      <link>http://reubenbf.com/tags/image/</link>
+      <link>https://reubenbf.github.io/Reuben_Portfolio/tags/image/</link>
       <pubDate>Fri, 05 Jun 2020 10:58:08 -0400</pubDate>
       
-      <guid>http://reubenbf.com/tags/image/</guid>
+      <guid>https://reubenbf.github.io/Reuben_Portfolio/tags/image/</guid>
       <description></description>
     </item>
     
     <item>
       <title>last.fm</title>
-      <link>http://reubenbf.com/tags/last.fm/</link>
+      <link>https://reubenbf.github.io/Reuben_Portfolio/tags/last.fm/</link>
       <pubDate>Fri, 05 Jun 2020 10:58:08 -0400</pubDate>
       
-      <guid>http://reubenbf.com/tags/last.fm/</guid>
+      <guid>https://reubenbf.github.io/Reuben_Portfolio/tags/last.fm/</guid>
       <description></description>
     </item>
     
     <item>
       <title>music</title>
-      <link>http://reubenbf.com/tags/music/</link>
+      <link>https://reubenbf.github.io/Reuben_Portfolio/tags/music/</link>
       <pubDate>Fri, 05 Jun 2020 10:58:08 -0400</pubDate>
       
-      <guid>http://reubenbf.com/tags/music/</guid>
+      <guid>https://reubenbf.github.io/Reuben_Portfolio/tags/music/</guid>
       <description></description>
     </item>
     
     <item>
       <title>neural style transfer</title>
-      <link>http://reubenbf.com/tags/neural-style-transfer/</link>
+      <link>https://reubenbf.github.io/Reuben_Portfolio/tags/neural-style-transfer/</link>
       <pubDate>Fri, 05 Jun 2020 10:58:08 -0400</pubDate>
       
-      <guid>http://reubenbf.com/tags/neural-style-transfer/</guid>
+      <guid>https://reubenbf.github.io/Reuben_Portfolio/tags/neural-style-transfer/</guid>
       <description></description>
     </item>
     
     <item>
       <title>portfolio</title>
-      <link>http://reubenbf.com/tags/portfolio/</link>
+      <link>https://reubenbf.github.io/Reuben_Portfolio/tags/portfolio/</link>
       <pubDate>Fri, 05 Jun 2020 10:58:08 -0400</pubDate>
       
-      <guid>http://reubenbf.com/tags/portfolio/</guid>
+      <guid>https://reubenbf.github.io/Reuben_Portfolio/tags/portfolio/</guid>
       <description></description>
     </item>
     
     <item>
       <title>sklearn</title>
-      <link>http://reubenbf.com/tags/sklearn/</link>
+      <link>https://reubenbf.github.io/Reuben_Portfolio/tags/sklearn/</link>
       <pubDate>Fri, 05 Jun 2020 10:58:08 -0400</pubDate>
       
-      <guid>http://reubenbf.com/tags/sklearn/</guid>
+      <guid>https://reubenbf.github.io/Reuben_Portfolio/tags/sklearn/</guid>
       <description></description>
     </item>
     
