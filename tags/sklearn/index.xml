@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>sklearn on Reuben Francis</title>
-    <link>http://reubenbf.io/tags/sklearn/</link>
+    <link>http://reubenbf.com/tags/sklearn/</link>
     <description>Recent content in sklearn on Reuben Francis</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 05 Jun 2020 10:58:08 -0400</lastBuildDate>
     
-	<atom:link href="http://reubenbf.io/tags/sklearn/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://reubenbf.com/tags/sklearn/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Miscellenous Portfolios</title>
-      <link>http://reubenbf.io/project/project-3/</link>
+      <link>http://reubenbf.com/project/project-3/</link>
       <pubDate>Fri, 05 Jun 2020 10:58:08 -0400</pubDate>
       
-      <guid>http://reubenbf.io/project/project-3/</guid>
+      <guid>http://reubenbf.com/project/project-3/</guid>
       <description>These Data Science portfolios explore the sklearn package and realizes simple analytical understanding on various data. Each of these projects shows how the data looks like, with visualizations and models created to further understand undelying insights.
 Projects   Analysis of CSV data for cycling 
   Analysing COVID-19 Data 
