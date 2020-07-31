@@ -6,10 +6,48 @@
     <description>Recent content in Hi, I&#39;m Reuben Francis on Reuben Francis</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 05 Jun 2020 10:58:08 -0400</lastBuildDate>
+    <lastBuildDate>Thu, 30 Jul 2020 10:58:08 -0400</lastBuildDate>
     
 	<atom:link href="https://reubenbf.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Customizing YOLOv4-tiny</title>
+      <link>https://reubenbf.github.io/project/project-5/</link>
+      <pubDate>Thu, 30 Jul 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://reubenbf.github.io/project/project-5/</guid>
+      <description>🎨 Hugely inspired by roboflow-ai and The AI Guy
+ 📝 Prerequisites  Preprocess your labelled dataset for free on roboflow it&amp;rsquo;s easier. Downloading pre-trained weights for faster training ⏩ Time ⏲, your models can take quite some time to train, get a snack, or some sleep while it&amp;rsquo;s at it.  Image Annotation Optionally, you can use LabelImg to label your images from scratch.
+👀 Usage Just follow the steps mentioned in the notebook and get started 😬.</description>
+    </item>
+    
+    <item>
+      <title>NowPlay-Box</title>
+      <link>https://reubenbf.github.io/project/project-4/</link>
+      <pubDate>Thu, 30 Jul 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://reubenbf.github.io/project/project-4/</guid>
+      <description>📌✨ For more pinned-gist projects like this one, check out: https://github.com/matchai/awesome-pinned-gists
+  Project hugely inspired by https://github.com/RangerDigital/neko-box
+  NowPlay-Box is a simple GitHub Action built to make dynamic Gist displaying the album you&amp;rsquo;re now-playing on Spotify .
+ Usage To start, you need to prepare some things:
+  Create a new public GitHub Gist at https://gist.github.com/
+  Create an Access Token with the gist scope and save it.</description>
+    </item>
+    
+    <item>
+      <title>Simple VGG 16 Classifier</title>
+      <link>https://reubenbf.github.io/project/project-6/</link>
+      <pubDate>Thu, 30 Jul 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://reubenbf.github.io/project/project-6/</guid>
+      <description> Simple VGG16 classifier using Keras and Streamlit
+ Requirements Python 3.x with all requirements.txt dependencies installed. To install run:
+$ git clone https://github.com/reubenbf/simple-vgg-classifier.git$ cd ./simple-vgg-classifier/$ pip install -r requirements.txt Get the Classifier Running Make sure to have the images you need to classify in the ./images directory
+$ cp /path/to/image/ ./images  Get the data app running
+$ streamlit run upload.py Results </description>
+    </item>
     
     <item>
       <title>Data-Driven Music Activity Analysis</title>

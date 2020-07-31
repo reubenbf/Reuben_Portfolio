@@ -3,14 +3,133 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://reubenbf.github.io/project/project-1/</loc>
-    <lastmod>2020-06-05T10:58:08-04:00</lastmod>
+    <loc>https://reubenbf.github.io/tags/classification/</loc>
+    <lastmod>2020-07-30T10:58:08-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://reubenbf.github.io/tags/colab-notebook/</loc>
+    <lastmod>2020-07-30T10:58:08-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://reubenbf.github.io/tags/computer-vision/</loc>
+    <lastmod>2020-07-30T10:58:08-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://reubenbf.github.io/tags/custom-dataset/</loc>
+    <lastmod>2020-07-30T10:58:08-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://reubenbf.github.io/project/project-5/</loc>
+    <lastmod>2020-07-30T10:58:08-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://reubenbf.github.io/tags/darknet/</loc>
+    <lastmod>2020-07-30T10:58:08-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://reubenbf.github.io/tags/deep-learning/</loc>
+    <lastmod>2020-07-30T10:58:08-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://reubenbf.github.io/tags/gist/</loc>
+    <lastmod>2020-07-30T10:58:08-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://reubenbf.github.io/tags/github-actions/</loc>
+    <lastmod>2020-07-30T10:58:08-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://reubenbf.github.io/</loc>
+    <lastmod>2020-07-30T10:58:08-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://reubenbf.github.io/tags/keras/</loc>
+    <lastmod>2020-07-30T10:58:08-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://reubenbf.github.io/project/project-4/</loc>
+    <lastmod>2020-07-30T10:58:08-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://reubenbf.github.io/tags/object-detection/</loc>
+    <lastmod>2020-07-30T10:58:08-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://reubenbf.github.io/tags/pinned-gist/</loc>
+    <lastmod>2020-07-30T10:58:08-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://reubenbf.github.io/project/project-6/</loc>
+    <lastmod>2020-07-30T10:58:08-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://reubenbf.github.io/tags/streamlit/</loc>
+    <lastmod>2020-07-30T10:58:08-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://reubenbf.github.io/tags/</loc>
+    <lastmod>2020-07-30T10:58:08-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://reubenbf.github.io/tags/vgg16/</loc>
+    <lastmod>2020-07-30T10:58:08-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://reubenbf.github.io/project/project-1/</loc>
     <lastmod>2020-06-05T10:58:08-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -67,13 +186,6 @@
   
   <url>
     <loc>https://reubenbf.github.io/tags/sklearn/</loc>
-    <lastmod>2020-06-05T10:58:08-04:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://reubenbf.github.io/tags/</loc>
     <lastmod>2020-06-05T10:58:08-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>

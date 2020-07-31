@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>classification on Reuben Francis</title>
+    <link>https://reubenbf.github.io/tags/classification/</link>
+    <description>Recent content in classification on Reuben Francis</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 30 Jul 2020 10:58:08 -0400</lastBuildDate>
+    
+	<atom:link href="https://reubenbf.github.io/tags/classification/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Simple VGG 16 Classifier</title>
+      <link>https://reubenbf.github.io/project/project-6/</link>
+      <pubDate>Thu, 30 Jul 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://reubenbf.github.io/project/project-6/</guid>
+      <description> Simple VGG16 classifier using Keras and Streamlit
+ Requirements Python 3.x with all requirements.txt dependencies installed. To install run:
+$ git clone https://github.com/reubenbf/simple-vgg-classifier.git$ cd ./simple-vgg-classifier/$ pip install -r requirements.txt Get the Classifier Running Make sure to have the images you need to classify in the ./images directory
+$ cp /path/to/image/ ./images  Get the data app running
+$ streamlit run upload.py Results </description>
+    </item>
+    
+  </channel>
+</rss>

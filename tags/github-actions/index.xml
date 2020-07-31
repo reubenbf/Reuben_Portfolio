@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>github-actions on Reuben Francis</title>
+    <link>https://reubenbf.github.io/tags/github-actions/</link>
+    <description>Recent content in github-actions on Reuben Francis</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 30 Jul 2020 10:58:08 -0400</lastBuildDate>
+    
+	<atom:link href="https://reubenbf.github.io/tags/github-actions/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>NowPlay-Box</title>
+      <link>https://reubenbf.github.io/project/project-4/</link>
+      <pubDate>Thu, 30 Jul 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://reubenbf.github.io/project/project-4/</guid>
+      <description>📌✨ For more pinned-gist projects like this one, check out: https://github.com/matchai/awesome-pinned-gists
+  Project hugely inspired by https://github.com/RangerDigital/neko-box
+  NowPlay-Box is a simple GitHub Action built to make dynamic Gist displaying the album you&amp;rsquo;re now-playing on Spotify .
+ Usage To start, you need to prepare some things:
+  Create a new public GitHub Gist at https://gist.github.com/
+  Create an Access Token with the gist scope and save it.</description>
+    </item>
+    
+  </channel>
+</rss>
